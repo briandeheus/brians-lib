@@ -14,3 +14,8 @@ cp brians-lib.plugin.zsh $INSTALL_DIR/
 cp -r lib/ $INSTALL_DIR/lib
 
 bh_log_ok "Installation complete!"
+bh_log_info ""
+bh_log_info ""
+bh_log_info "Please update your ~/.zshrc to include brians-lib in the plugins."
+bh_log_info ""
+bh_log_info ""
